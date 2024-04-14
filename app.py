@@ -222,7 +222,7 @@ def main():
     about.write("#### ChatBot-CSV is an AI chatbot featuring conversational memory, designed to enable users to discuss their CSV data in a more intuitive manner. 📄")
     about.write("#### It employs large language models to provide users with seamless, context-aware natural language interactions for a better understanding of their CSV data. 🌐")
     about.write("#### Powered by [Langchain](https://github.com/hwchase17/langchain), [OpenAI](https://platform.openai.com/docs/models/gpt-3-5) and [Streamlit](https://github.com/streamlit/streamlit) ⚡")
-    about.write("#### Source code : [Architectshwet/Chat-on-csv-data](https://github.com/Architectshwet/Chat-on-csv-data)")
+    about.write("#### Source code : [Maniac1769/CSV-Chatbot](https://github.com/Maniac1769/CSV-Chatbot)")
 
 #Run the main function
 if __name__ == "__main__":
